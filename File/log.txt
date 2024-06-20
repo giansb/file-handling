@@ -1,0 +1,8 @@
+
+2023-06-01 10:00:00 Iniciando a aplicação
+2023-06-01 10:05:00 Usuário 'admin' logado
+2023-06-01 10:10:00 Usuário 'guest' logado
+2023-06-01 10:15:00 ERRO na página de cadastro
+2023-06-01 10:20:00 Usuário 'admin' deslogado
+2023-06-01 10:25:00 Usuário 'guest' deslogado
+2023-06-01 10:30:00 Finalizando a aplicação
